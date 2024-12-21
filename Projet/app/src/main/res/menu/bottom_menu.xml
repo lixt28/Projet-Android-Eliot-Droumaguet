@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Accès rapide"
+        />
+
+    <item
+        android:id="@+id/nav_lightbulb"
+        android:icon="@drawable/ic_lightbulb"
+        android:title="Lumière"
+        />
+
+    <item
+        android:id="@+id/nav_shutter"
+        android:icon="@drawable/ic_shutter"
+        android:title="Volet"
+        />
+
+    <item
+        android:id="@+id/nav_garage"
+        android:icon="@drawable/ic_garage"
+        android:title="Garage"
+        />
+</menu>
